@@ -1,0 +1,10 @@
+beautifulsoup4==4.11.1
+html5lib==1.1
+lxml==4.9.0
+requests==2.27.1
+nltk==3.7
+numpy==1.22.4
+pandas==1.4.2
+tqdm==4.64.0
+urllib3==1.26.9
+plotly==5.8.1
